@@ -1,0 +1,62 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {part}{I\hspace {1em}Le Fonctionnement}{3}
+\contentsline {chapter}{\numberline {2}La th\IeC {\'e}orie}{4}
+\contentsline {section}{\numberline {2.1}RSA}{4}
+\contentsline {subsection}{\numberline {2.1.1}Historique}{4}
+\contentsline {subsection}{\numberline {2.1.2}Le fonctionnement g\IeC {\'e}n\IeC {\'e}ral}{4}
+\contentsline {subsubsection}{La cr\IeC {\'e}ation des cl\IeC {\'e}s}{4}
+\contentsline {subsubsection}{Chiffrement du message}{5}
+\contentsline {subsubsection}{D\IeC {\'e}chiffrement du message}{5}
+\contentsline {subsection}{\numberline {2.1.3}Fonctionnement g\IeC {\'e}n\IeC {\'e}ral}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {subsection}{\numberline {2.1.4}Limites}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {part}{II\hspace {1em}Mise en application}{7}
+\contentsline {chapter}{\numberline {3}La pratique}{8}
+\contentsline {section}{\numberline {3.1}Fonctionnement g\IeC {\'e}n\IeC {\'e}ral}{8}
+\contentsline {subsection}{\numberline {3.1.1}Mod\IeC {\`e}le de conception et de programmation}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {section}{\numberline {3.2}Gestion des utilisateurs}{10}
+\contentsline {subsection}{\numberline {3.2.1}Inscription}{10}
+\contentsline {subsection}{\numberline {3.2.2}Connexion}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {section}{\numberline {3.3}Gestion des messages}{12}
+\contentsline {subsection}{\numberline {3.3.1}Envoi des messages}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{13}
+\contentsline {subsection}{\numberline {3.3.2}R\IeC {\'e}ception des messages}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {section}{\numberline {3.4}Le chiffrement}{15}
+\contentsline {subsection}{\numberline {3.4.1}Les cl\IeC {\'e}s}{15}
+\contentsline {paragraph}{}{15}
+\contentsline {paragraph}{}{16}
+\contentsline {subsection}{\numberline {3.4.2}Le chiffrement des messages}{17}
+\contentsline {paragraph}{}{17}
+\contentsline {subsubsection}{Le cryptage}{17}
+\contentsline {paragraph}{}{17}
+\contentsline {subsubsection}{str2Int}{18}
+\contentsline {paragraph}{}{18}
+\contentsline {subsubsection}{createChunk}{18}
+\contentsline {paragraph}{}{18}
+\contentsline {subsubsection}{modExp}{19}
+\contentsline {paragraph}{}{19}
+\contentsline {subsubsection}{Le decryptage}{19}
+\contentsline {paragraph}{}{19}
+\contentsline {subsubsection}{reformChunk}{19}
+\contentsline {paragraph}{}{19}
+\contentsline {subsubsection}{int2Str}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {subsection}{\numberline {3.4.3}Exemple de cryptage RSA}{20}
+\contentsline {subsection}{\numberline {3.4.4}Les probl\IeC {\`e}mes et leurs solutions}{21}
+\contentsline {chapter}{\numberline {4}Conclusion}{22}
+\contentsline {paragraph}{}{22}
